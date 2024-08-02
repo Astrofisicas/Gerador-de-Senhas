@@ -1,4 +1,4 @@
-# Gerador de Senhas Forte
+# Gerador de Senhas
 
 Este é um gerador de senhas automático e forte com uma interface gráfica bonita, desenvolvido em Python utilizando a biblioteca Tkinter.
 
@@ -17,4 +17,4 @@ Este é um gerador de senhas automático e forte com uma interface gráfica boni
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/SEU_USUARIO/password-generator.git
+   git clone https://github.com/Astrofisicas/Gerador-de-Senhas.git
